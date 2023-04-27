@@ -21,8 +21,8 @@ The Jupyter Notebook contains detailed explanations of each step in the analysis
 - `Spotify_Data_Analytics.ipynb`: The Jupyter Notebook containing the code for the analysis.
 - `requirements.txt`: The list of Python libraries required to run the code in the Notebook.
 - `tracks.csv`:This file is used to join information from other files (such as the artists.csv and spotify_features.csv files) to get a more complete picture of each track and its attributes.
--`spotify_features.csv`:This file is used to analyze how different audio features relate to a track's popularity and to make suggestions for how less popular tracks could be improved.
--`artists.csv`:This file is used to join information with the tracks.csv file to get a more complete picture of each track's artist and their attributes
+- `spotify_features.csv`:This file is used to analyze how different audio features relate to a track's popularity and to make suggestions for how less popular tracks could be improved.
+- `artists.csv`:This file is used to join information with the tracks.csv file to get a more complete picture of each track's artist and their attributes
 
 ## Usage
 
