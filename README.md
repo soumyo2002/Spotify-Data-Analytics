@@ -4,17 +4,17 @@ This repository contains code and data related to the analysis of Spotify song d
 
 ## Dataset
 
-The Spotify song dataset used for this analysis is obtained from Kaggle and contains data on a sample of songs, including metrics such as the dancebility,liveliness etc. The dataset can be found in the repo
+The Spotify song dataset used for this analysis is obtained from Kaggle and contains data on a sample of songs, including metrics such as the dancebility,liveliness etc. The dataset contains can be found in the repository.
 
-You will need to download the dataset and extract the relevant CSV files to a local directory to use it for this analysis. The Jupyter Notebook contains instructions on how to read the data into Python using Pandas.
+You will need to download the dataset and extract the relevant CSV files to a local directory to use it for this analysis. The Jupyter Notebook contains instructions on how to read the data into Python using Pandas library.
 
 ## Analysis
 
-The analysis is conducted using Python and various data analysis libraries such as Pandas, NumPy, and Matplotlib. The code for the analysis is provided in Jupyter Notebook format and can be run locally on any machine with Python and the required libraries installed.
+The analysis is conducted using Python and various data analysis libraries such as Pandas, NumPy, Seaborn and Matplotlib. The code for the analysis is provided in Jupyter Notebook format and can be run locally on any machine with Python and the required libraries installed.
 
 The analysis involves identifying patterns and trends associated with more successful songs, such as genre, tempo, duration, and more. Based on these insights, suggestions are made to less popular songs on how to improve their chances of success. These suggestions may include changes to the song structure, genre, sound, or lyrics, as well as strategies for marketing and promotion.
 
-The Jupyter Notebook contains detailed explanations of each step in the analysis, as well as comments in the code to help readers understand what each section does.
+The Jupyter Notebook contains detailed explanations of each step in the analysis, as well as comments in the code to help readers understand what each section of code does.
 
 ### Files
 
