@@ -4,9 +4,7 @@ This repository contains code and data related to the analysis of Spotify song d
 
 ## Dataset
 
-The Spotify song dataset used for this analysis is obtained from Kaggle and contains data on a sample of songs, including metrics such as the number of streams, listener engagement, playlist inclusion, and demographic/geographic information. The dataset can be downloaded from the following link:
-
-- [Spotify Dataset 1921-2020, 160k+ Tracks](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks)
+The Spotify song dataset used for this analysis is obtained from Kaggle and contains data on a sample of songs, including metrics such as the dancebility,liveliness etc. The dataset can be found in the repo
 
 You will need to download the dataset and extract the relevant CSV files to a local directory to use it for this analysis. The Jupyter Notebook contains instructions on how to read the data into Python using Pandas.
 
