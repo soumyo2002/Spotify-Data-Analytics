@@ -1,6 +1,6 @@
 # Spotify Data Analytics
 
-This repository contains code and data related to the analysis of Spotify song data to identify trends and patterns associated with more and less popular songs. The aim of this analysis is to provide suggestions to less popular songs on how to improve their chances of success.
+This documentation presents the findings and methodologies employed in our 3rd year KIIT minor project, focused on analyzing Spotify's hit songs to enhance the popularity of lesser-known tracks. The objective of this project was to leverage data analysis techniques to uncover patterns and insights from Spotify's popular songs and utilize them as recommendations to promote lesser-known music.This repository contains code and data related to the analysis of Spotify song data to identify trends and patterns associated with more and less popular songs. The aim of this analysis is to provide suggestions to less popular songs on how to improve their chances of success.
 
 ## Dataset
 
