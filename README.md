@@ -33,10 +33,8 @@ pip install -r requirements.txt
 
 Once the libraries are installed, you can run the Jupyter Notebook and follow the instructions to conduct the analysis and generate insights and suggestions for less popular songs.
 
-## Contribution
+## Deployment Link
 
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome contributions of code, data, and suggestions for improving the analysis.
+Link: nitya-bhanu.github.io/SpotifyAnalysis/
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
